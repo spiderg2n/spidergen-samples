@@ -1,2 +1,5 @@
-# spidergen-samples
-spidergen samples
+# AGrid Sample
+
+그리드 컴포넌트는 데이터를 테이블 형식으로 관리해 주는 컴포넌트 입니다.
+<br>
+실제로 기능이 복잡하고 다양하지만 간단한 사용법만 다룬 샘플입니다.
