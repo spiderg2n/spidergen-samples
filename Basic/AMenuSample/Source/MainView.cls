@@ -50,6 +50,8 @@ function MainView*onATextBox1Actionup(comp, info, e)
 	];
 
 	menu.setItemInfoArr(itemInfos);
+	
+	//콜백 함수에서 메뉴 선택 이번트를 처리합니다.
 	menu.popupEx({left:e.pageX, top:e.pageY}, function(result)
 	{
 		console.log(result);
