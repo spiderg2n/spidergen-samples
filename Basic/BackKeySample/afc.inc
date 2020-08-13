@@ -1,10 +1,10 @@
 {
     "library": {},
     "component": {
-        "AApplication.js": true,
-        "ANavigator.js": true,
-        "APage.js": true,
-        "AWindow.js": true
+        "AApplication.js": false,
+        "ANavigator.js": false,
+        "APage.js": false,
+        "AWindow.js": false
     },
     "event": {},
     "style": {}

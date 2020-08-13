@@ -1,4 +1,6 @@
 
+import 'Framework/afc/component/AWindow.js'
+
 /**
 Constructor
 Do not call Function in Constructor.
