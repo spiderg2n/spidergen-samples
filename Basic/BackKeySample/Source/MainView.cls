@@ -35,5 +35,6 @@ function MainView*onBackBtnClick(comp, info, e)
 function MainView*onOpenBtnClick(comp, info, e)
 {
 	var wnd = new AWindow('TestWnd');
+	wnd.setOption({isModal: false});
 	wnd.open('Source/subview/TestWindow.lay', null, 100, 100, 370, 220);
 };

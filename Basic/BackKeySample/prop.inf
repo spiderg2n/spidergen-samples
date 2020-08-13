@@ -16,7 +16,8 @@
       "640",
       "800"
     ],
-    "tabletMinWidth": 500
+    "tabletMinWidth": 500,
+    "localizing": ""
   },
   "build": {
     "autoInc": true,
@@ -27,7 +28,7 @@
     "frwLoadOption": "inTimeLoad",
     "subName": "",
     "outputPath": "",
-    "stlImportant": true,
+    "stlImportant": false,
     "scriptLink": ""
   },
   "subversion": {
