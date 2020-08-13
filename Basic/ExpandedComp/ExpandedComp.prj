@@ -24,13 +24,6 @@
         "children": [
           {
             "type": 5,
-            "name": "DnDManager.js",
-            "action": 2,
-            "relType": 4,
-            "path": ""
-          },
-          {
-            "type": 5,
             "name": "minimit-anima.js",
             "action": 2,
             "relType": 4,
@@ -55,6 +48,13 @@
             "name": "ExpandedCompApp_global.stl",
             "relType": 1,
             "path": ""
+          },
+          {
+            "type": 6,
+            "name": "ResponsiveSampleView-resp.css",
+            "action": 10,
+            "relType": 1,
+            "path": "Template\\"
           }
         ]
       },

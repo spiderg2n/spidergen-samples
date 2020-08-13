@@ -1,8 +1,10 @@
 
+
+
 /**
-Constructor
-Do not call Function in Constructor.
+기본 라이브러리를 Framework/afc 의 Default Load Settings 로 설정함.
 */
+
 class ExpandedCompApp()
 {
 	super();
