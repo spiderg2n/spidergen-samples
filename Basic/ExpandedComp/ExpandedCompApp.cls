@@ -29,13 +29,6 @@ function ExpandedCompApp*onReady()
 	
 	navigator.goPage('MainView');
 
-	//or
-
-	//this.setMainContainer(new APage('main'));
-	//this.mainContainer.open('Source/MainView.lay');
-
-	//TODO:edit here
-
 };
 
 function ExpandedCompApp*unitTest(unitUrl)

@@ -28,7 +28,9 @@
     "indexTitle": "",
     "frwLoadOption": "inTimeLoad",
     "subName": "",
-    "outputPath": ""
+    "outputPath": "",
+    "stlImportant": false,
+    "scriptLink": ""
   },
   "subversion": {
     "useMode": false,
