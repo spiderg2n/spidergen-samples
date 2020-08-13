@@ -60,60 +60,6 @@
       },
       {
         "type": 1,
-        "name": "Bridge",
-        "children": [
-          {
-            "type": 1,
-            "name": "android",
-            "children": [
-              {
-                "type": 5,
-                "name": "cordova.js",
-                "relType": 8,
-                "path": "android\\"
-              },
-              {
-                "type": 5,
-                "name": "cordova_plugins.js",
-                "relType": 8,
-                "path": "android\\"
-              }
-            ]
-          },
-          {
-            "type": 1,
-            "name": "ios",
-            "children": [
-              {
-                "type": 5,
-                "name": "cordova.js",
-                "relType": 8,
-                "path": "ios\\"
-              },
-              {
-                "type": 5,
-                "name": "cordova_plugins.js",
-                "relType": 8,
-                "path": "ios\\"
-              }
-            ]
-          },
-          {
-            "type": 1,
-            "name": "windows",
-            "children": [
-              {
-                "type": 5,
-                "name": "cordova.js",
-                "relType": 8,
-                "path": "windows\\"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": 1,
         "name": "Query",
         "children": []
       },
@@ -164,5 +110,5 @@
       }
     ]
   },
-  "version": "2.3.4"
+  "version": "3.0.9"
 }

@@ -10,14 +10,25 @@
     "scaleVal": 1,
     "userScalable": false,
     "isPort": true,
-    "scaleValue": 100
+    "scaleValue": 100,
+    "layBrowserInfo": [
+      "640",
+      "800"
+    ],
+    "tabletMinWidth": 500,
+    "responsiveTest": ""
   },
   "build": {
     "autoInc": true,
     "dynamicInc": true,
     "dynamicComp": false,
     "bridgeName": "none",
-    "indexTitle": ""
+    "indexTitle": "",
+    "stlImportant": false,
+    "frwLoadOption": "inTimeLoad",
+    "subName": "",
+    "outputPath": "",
+    "scriptLink": ""
   },
   "subversion": {
     "useMode": false,
@@ -31,5 +42,9 @@
       "idx": null,
       "list": []
     }
+  },
+  "script": {
+    "before": [],
+    "after": []
   }
 }
