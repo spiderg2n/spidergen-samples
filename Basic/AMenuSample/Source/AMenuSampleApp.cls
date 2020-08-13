@@ -21,7 +21,6 @@ function AMenuSampleApp*onReady()
 	super.onReady();
 
 	this.setMainContainer(new APage('main'));
-	this.mainContainer.setOption({isAsync: true});
 	this.mainContainer.open('Source/MainView.lay');
 
 	//TODO:edit here
