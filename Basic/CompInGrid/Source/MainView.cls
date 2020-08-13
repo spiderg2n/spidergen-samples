@@ -40,6 +40,7 @@ function MainView*onActiveDone(isFirst)
 function MainView*onAddBtnClick(comp, info, e)
 {
 	var row = this.testGrid.addRow(['', 'a', 'b', '']);
+	
 	var chk = this.makeCheckBox('테스트', 100),
 		btn = this.makeButton('실행');
 	
