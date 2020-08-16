@@ -21,7 +21,7 @@ function MainView*init(context, evtListener)
 	//리스트뷰는 isUpdatePosition 옵션이 기본적으로 false 이다.
 	//리스트뷰가 동적으로 리사이즈 될 때 
 	//슬라이드뷰의 아이템이 리사이즈 되려면 옵션을 true 로 셋팅해야 한다.
-	//
+	
 	this.listView.setOption({isUpdatePosition: true});
 	
 
