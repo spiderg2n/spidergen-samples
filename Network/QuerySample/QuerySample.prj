@@ -1,0 +1,221 @@
+{
+  "projectName": "QuerySample",
+  "fileTree": {
+    "type": 0,
+    "name": "QuerySample",
+    "children": [
+      {
+        "type": 1,
+        "name": "Framework",
+        "action": 1,
+        "children": [
+          {
+            "type": 11,
+            "name": "afc",
+            "relType": 7,
+            "path": "afc\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Library",
+        "action": 2,
+        "children": [
+          {
+            "type": 5,
+            "name": "ABuffer.js",
+            "action": 2,
+            "relType": 4,
+            "path": ""
+          },
+          {
+            "type": 5,
+            "name": "AQuery.js",
+            "action": 2,
+            "relType": 4,
+            "path": ""
+          },
+          {
+            "type": 5,
+            "name": "AQueryData.js",
+            "action": 2,
+            "relType": 4,
+            "path": ""
+          },
+          {
+            "type": 5,
+            "name": "QueryManager.js",
+            "action": 2,
+            "relType": 4,
+            "path": ""
+          },
+          {
+            "type": 5,
+            "name": "NetworkIO.js",
+            "action": 2,
+            "relType": 4,
+            "path": ""
+          },
+          {
+            "type": 5,
+            "name": "HttpIO.js",
+            "action": 2,
+            "relType": 4,
+            "path": ""
+          },
+          {
+            "type": 2,
+            "name": "WebQueryData.cls",
+            "action": null,
+            "relType": 1,
+            "path": "Library\\"
+          },
+          {
+            "type": 2,
+            "name": "WebQueryManager.cls",
+            "action": null,
+            "relType": 1,
+            "path": "Library\\"
+          },
+          {
+            "type": 5,
+            "name": "AppManager.js",
+            "action": 2,
+            "relType": 4,
+            "path": ""
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Template",
+        "action": 4,
+        "children": [
+          {
+            "type": 4,
+            "name": "QuerySampleApp_global.stl",
+            "relType": 1,
+            "path": ""
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Bridge",
+        "children": [
+          {
+            "type": 1,
+            "name": "android",
+            "children": [
+              {
+                "type": 5,
+                "name": "cordova.js",
+                "relType": 8,
+                "path": "android\\"
+              },
+              {
+                "type": 5,
+                "name": "cordova_plugins.js",
+                "relType": 8,
+                "path": "android\\"
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "ios",
+            "children": [
+              {
+                "type": 5,
+                "name": "cordova.js",
+                "relType": 8,
+                "path": "ios\\"
+              },
+              {
+                "type": 5,
+                "name": "cordova_plugins.js",
+                "relType": 8,
+                "path": "ios\\"
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "windows",
+            "children": [
+              {
+                "type": 5,
+                "name": "cordova.js",
+                "relType": 8,
+                "path": "windows\\"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Query",
+        "children": [
+          {
+            "type": 8,
+            "name": "ac001.qry",
+            "action": null,
+            "relType": 1,
+            "path": "qry\\"
+          },
+          {
+            "type": 8,
+            "name": "ac002.qry",
+            "action": null,
+            "relType": 1,
+            "path": "qry\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Assets",
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Source",
+        "children": [
+          {
+            "type": 2,
+            "name": "QuerySampleApp.cls",
+            "relType": 1,
+            "path": ""
+          },
+          {
+            "type": 2,
+            "name": "MainView.cls",
+            "action": null,
+            "relType": 1,
+            "path": "",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "MainView.lay",
+            "action": null,
+            "relType": 1,
+            "path": "",
+            "comment": ""
+          },
+          {
+            "type": 12,
+            "name": "MyFormat.fmt",
+            "action": null,
+            "relType": 1,
+            "path": "",
+            "comment": ""
+          }
+        ]
+      }
+    ]
+  },
+  "version": "3.0.4"
+}
